@@ -1,4 +1,3 @@
-👋 Hey I'm Sam
-
- 🔮 Learning magic with HTML, CSS and Javascript
+👋 Hey I'm Sam and I'm...
+🔮 Learning magic with HTML, CSS and Javascript
  
